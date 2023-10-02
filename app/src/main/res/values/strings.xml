@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppVarios</string>
+    <string name="btnMapas">Go to Google Maps</string>
+    <string name="btnGoogle">Go to Google</string>
+    <string name="btnAlarma">Create Alarm</string>
+    <string name="btnLlamar">Call</string>
+    <string name="btnWifi">Go to Wifi</string>
+</resources>
